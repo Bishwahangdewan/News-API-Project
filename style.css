@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito|Pacifico');
+
+body{
+    font-family:"Nunito";
+    font-size:18px;
+}
+
+.navbar-brand{
+    font-family:"Pacifico";
+    font-size:30px;
+    color:#04091e;
+}
+
